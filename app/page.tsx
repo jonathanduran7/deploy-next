@@ -5,7 +5,9 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <div>
-      <h1 className={styles.title}>Hello World</h1>
+      <h1 className={styles.title}>
+        Bienvenido al deploy
+      </h1>
       <button
         style={{
           padding: '1rem',
